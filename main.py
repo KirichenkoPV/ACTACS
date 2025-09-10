@@ -1,3 +1,2 @@
-print("hello world")
-b=1
-a=2
+A = 1
+print(A)
